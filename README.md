@@ -1,5 +1,6 @@
 # Numerical Methods
 This repository is a collection of numerical algorithms designed to solve various mathematical problems. It includes implementations focused on non-linear equations and ordinary differential equations (ODEs).
+This project have been part of "Numerical Methods" course at Warsaw University of Technology
 
 ## Contents
 - **Non Linear Equations**:
